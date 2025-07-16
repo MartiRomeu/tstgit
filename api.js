@@ -4,3 +4,4 @@
 //mejora 3
 
 // pol: he fet una api, ay mhe deixat aixo
+// la api final del pol
