@@ -8,3 +8,4 @@
 // marti fent coses
 // marti fent altres coses sense fer fetch abans
 // pol canvi a main jo solet
+//tst no fetch
