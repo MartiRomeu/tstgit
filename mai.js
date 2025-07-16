@@ -4,3 +4,4 @@
 // call mejora 3
 
 // marti fent coses
+// marti fent altres coses sense fer fetch abans
